@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792702932592",
+    "project_id": "kiranakarton",
+    "storage_bucket": "kiranakarton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792702932592:android:fe65e61083b5b1283f06b5",
+        "android_client_info": {
+          "package_name": "com.vishal.kiranakarton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792702932592-3l23abovrhq1o9k23pu25jd9fqfk2ii5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH7GIra7IvKC6apZ4rilGU7r6G_3ghQvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792702932592-3l23abovrhq1o9k23pu25jd9fqfk2ii5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
