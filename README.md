@@ -1,5 +1,8 @@
 # KiranaKarton
 It is an ecommerce app where user can buy any listed item and can make payent via razorpay gateway feature.
+
+SnapShots
+
 ![im1](https://github.com/vishalmasaniya1/KiranaKarton/assets/119886010/0a8f39ee-4be4-4f9a-85d9-04e301f84b69)
 ![im](https://github.com/vishalmasaniya1/KiranaKarton/assets/119886010/b7de9dff-c1bf-4da1-bcb3-f9b0635518e4)
 ![im4](https://github.com/vishalmasaniya1/KiranaKarton/assets/119886010/29869e04-8775-475c-83ea-12062012577b)
